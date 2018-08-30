@@ -13,8 +13,9 @@ pip install -r requirements.txt
 
 python main.py
 
-Go to 127.0.0.1:8000/hello/<Anything here>/
-  
+Go to 127.0.0.1:8000/hello/Nayan/
+
+Put any name in place of 'Nayan' in the above url.
 You'll be greeted and a random quote is displayed before you.
 Refresh the page and see a different quote.
 
